@@ -48,16 +48,26 @@ A web-based application designed to streamline leave management processes with J
     ```
 
 2. **Install backend dependencies**
-   To run the Backend Server
    ```bash
    cd leave-management/backend
    npm install
    ```
-   To run the Frontend
-   ```bash
-   npm run dev
-   ```
-   
+   **Start the development servers**
+
+  **Backend** (from `/backend`):
+  ```
+  npm run dev
+  ```
+
+- **Frontend** (from `/frontend`):
+  ```
+  npm start
+  ```
+
+
+---
+
+
     
 
 
