@@ -46,6 +46,18 @@ A web-based application designed to streamline leave management processes with J
     ```bash
     git clone https://github.com/yourusername/leave-management.git
     ```
+
+2. **Install backend dependencies**
+   To run the Backend Server
+   ```bash
+   cd leave-management/backend
+   npm install
+   ```
+   To run the Frontend
+   ```bash
+   npm run dev
+   ```
+   
     
 
 
