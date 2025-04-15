@@ -54,12 +54,12 @@ A web-based application designed to streamline leave management processes with J
    ```
 3. **Start the development servers**
 
-  **Backend** (from `/backend`):
+   *Backend* (from `/backend`):
   ```
   npm run dev
   ```
 
- **Frontend** (from `/frontend`):
+  *Frontend* (from `/frontend`):
   ```
   npm start
   ```
