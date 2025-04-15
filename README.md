@@ -52,7 +52,7 @@ A web-based application designed to streamline leave management processes with J
    cd leave-management/backend
    npm install
    ```
-   **Start the development servers**
+3. **Start the development servers**
 
   **Backend** (from `/backend`):
   ```
