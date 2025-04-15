@@ -32,4 +32,21 @@ A web-based application designed to streamline leave management processes with J
 
 ---
 
+## 🚀 Installation
+
+### Prerequisites
+
+- **Node.js** (version 14.x or higher)
+- **MongoDB Atlas** account (or local MongoDB instance)
+- **Git** (version 2.33 or higher)
+
+### Steps
+
+1. **Clone the repository**
+    ```bash
+    git clone https://github.com/yourusername/leave-management.git
+    ```
+    
+
+
 
