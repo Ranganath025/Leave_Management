@@ -63,8 +63,16 @@ A web-based application designed to streamline leave management processes with J
   ```
   npm start
   ```
+4.**Access the application**
 
+- Frontend: [http://localhost:3000](http://localhost:3000)
+- Backend API: [http://localhost:5000](http://localhost:5000)
 
+---
+
+**Note:**  
+- Make sure your MongoDB Atlas cluster is running and accessible.
+- Update the MongoDB connection string and JWT secret as per your setup
 ---
 
 
