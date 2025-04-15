@@ -59,7 +59,7 @@ A web-based application designed to streamline leave management processes with J
   npm run dev
   ```
 
-- **Frontend** (from `/frontend`):
+ **Frontend** (from `/frontend`):
   ```
   npm start
   ```
