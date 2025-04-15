@@ -24,7 +24,7 @@ A web-based application designed to streamline leave management processes with J
 | Component       | Technology                          |
 |-----------------|-------------------------------------|
 | **Frontend**    | React.js + TypeScript for the UI |
-| **Backend**     | Node.js + Express.js               |
+| **Backend**     | Node.js + Express.js + JavaScript       |
 | **Database**    | MongoDB Atlas                      |
 | **Authentication** | JWT                             |
 | **State Management** | Redux (optional)              |
