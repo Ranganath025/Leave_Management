@@ -4,8 +4,8 @@ import { isDemoUser } from '@/lib/utils';
 
 // Determine the API URL based on the environment
 const getApiUrl = () => {
-  // For Lovable environment
-  if (window.location.origin.includes('lovable.app')) {
+  // For vercel environment
+  if (window.location.origin.includes('vercel.app')) {
     return `${window.location.origin}/api`;
   }
   // For local development
